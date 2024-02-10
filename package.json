@@ -6,6 +6,7 @@
   "publisher": "Iconical",
   "icon": "images/RAWRBERRY-LOGO.png",
   "license": "LICENSE.md",
+  "repository": "https://github.com/babyico/vsc-rawrberry.git",
   "engines": {
     "vscode": "^1.86.0"
   },
