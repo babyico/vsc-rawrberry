@@ -1,0 +1,19 @@
+{
+  "name": "rawrberry",
+  "displayName": "Rawrberry",
+  "description": "A collection of Rawrberry's and Iconical's extensions",
+  "version": "0.0.1",
+  "publisher": "Iconical",
+  "icon": "images/RAWRBERRY-LOGO.png",
+  "license": "LICENSE.md",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "iconical.rawreme",
+    "iconical.rawrsnips"
+  ]
+}
